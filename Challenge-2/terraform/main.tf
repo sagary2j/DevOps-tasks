@@ -72,11 +72,6 @@ resource "aws_security_group" "sg_22_80" {
 
 }
 
-# resource "aws_key_pair" "ec2key" {
-#   key_name = "publicKey"
-#   public_key = "${file(var.public_key_path)}"
-# }
-
 resource "tls_private_key" "key" {
   algorithm = "RSA"
 }
