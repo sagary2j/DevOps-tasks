@@ -12,4 +12,4 @@
   - Run`python .\keyParse.py`
 - It will ask you to input the key
   - `What key would you like to find?`
-  - `Enter the key which you need to find in format like a/b/c ot x/y/z`
+  - `Enter the key which you need to find in format like a/b/c or x/y/z`
