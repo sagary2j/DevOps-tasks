@@ -1,5 +1,3 @@
-# aws-metadata-json
-
 ## How to install
 - Create an EC2 Linux instance on AWS using Terraform
   - Run terraform files,
